@@ -92,7 +92,8 @@ MiDaS 모델을 활용하여 객체와 사용자 간 상대 거리를 추정했�
 
 깊이 정보를 기반으로 위험 객체 접근 여부를 판단하여
 충돌 가능성을 분석할 수 있도록 설계했습니다.
-<img width="500" height="300" alt="미다스적용사진" src="https://github.com/user-attachments/assets/d5d5f474-5212-490b-8d56-1e239f41588d" />
+
+<img width="600" height="250" alt="미다스적용사진" src="https://github.com/user-attachments/assets/d5d5f474-5212-490b-8d56-1e239f41588d" />
 ---
 
 ## 🔊 음성 안내 시스템
