@@ -94,7 +94,9 @@ MiDaS 모델을 활용하여 객체와 사용자 간 상대 거리를 추정했�
 충돌 가능성을 분석할 수 있도록 설계했습니다.
 
 <img width="600" height="250" alt="미다스적용사진" src="https://github.com/user-attachments/assets/d5d5f474-5212-490b-8d56-1e239f41588d" />
+
 ---
+
 
 ## 🔊 음성 안내 시스템
 
@@ -115,6 +117,8 @@ Socket Programming 기반 통신 구조를 설계하여
 
 또한 로그 관리 시스템을 구현하여
 위험 감지 이벤트를 기록 및 관리할 수 있도록 구성했습니다.
+
+<img width="664" height="498" alt="보행자 보조 시스템_시퀀스다이어그램" src="https://github.com/user-attachments/assets/f819845c-08eb-4eba-9aaf-ec4d51e03e8d" />
 
 ---
 
